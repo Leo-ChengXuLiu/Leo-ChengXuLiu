@@ -6,7 +6,32 @@ Currently a first-year MSci Physics student at **University College London (UCL)
 **🎯 Actively seeking Summer Research Internships and Transfer Opportunities to top-tier physics programs.**
 
 ---
+## 🚀 Featured Projects & Archives
 
+### 💻 [Computational Physics & AI Architecture](https://github.com/Leo-ChengXuLiu/Computational-Physics-and-AI-Architecture)
+* **Tech Stack:** Python, TensorFlow, Keras, Local LLMs (Ollama), NumPy
+* **Overview:** My core engineering laboratory bridging algorithmic logic with physics data analysis. 
+* **Key Implementations:**
+  * Architected and trained custom **CNN & MLP architectures** from scratch for high-accuracy pattern recognition.
+  * Developed an autonomous **Local LLM (Llama3)** workflow agent for semantic physics archive management.
+  * Programmed finite-difference solvers for fluid dynamics and conducted thermodynamic heat flux modeling.
+  * Engineered a real-time, multimodal conversational AI assistant (**Project Amadeus**).
+
+### ⚛️ [Advanced Theoretical Physics Manuscripts](https://github.com/Leo-ChengXuLiu/Advanced-Theoretical-Physics-Manuscripts)
+* **Focus:** Graduate-Level Derivations, Analytical Mechanics, Quantum Mechanics
+* **Overview:** The "hardcore" theoretical engine of my self-study, extending far beyond the standard Year 1 curriculum.
+* **Key Implementations:**
+  * A rigorous, dynamic repository of my independent mathematical derivations.
+  * Deep-dive theoretical notes, formula derivations, and problem-solving based on absolute foundational texts: ***J.J. Sakurai's Modern Quantum Mechanics*** and ***Landau & Lifshitz's Mechanics***.
+
+### 📚 [UCL Undergraduate Physics Foundations](https://github.com/Leo-ChengXuLiu/UCL-Physics-Year1-Notes)
+* **Focus:** Core Freshman Curriculum, Mathematical Methods, Laboratory Reports
+* **Overview:** The solid academic baseline. A meticulously organized archive of my coursework for the MSci Physics program at University College London.
+* **Key Implementations:**
+  * Comprehensive documentation of standard university modules to maintain top-tier academic rigor and a flawless GPA foundation.
+  * Structured notes covering introductory mechanics, electromagnetism, and practical experimental physics data.
+
+---
 ## 🚀 Featured Independent Projects
 
 ### 🧠 [Deep Learning Architecture: CNN & MLP Implementation](https://github.com/Leo-ChengXuLiu/Computational-Physics-and-AI-Architecture/tree/main/Hand-written-numbers-recognize)
@@ -14,12 +39,6 @@ Currently a first-year MSci Physics student at **University College London (UCL)
 * Architected, trained, and optimized custom Convolutional Neural Networks (CNN) and Multi-Layer Perceptrons (MLP) from scratch for high-accuracy image classification.
 * Focused on bridging algorithmic logic with data-driven analysis.
 
-### ⚛️ [Graduate-Level Theoretical Physics Derivations](这里放你重命名后的理论物理笔记仓库链接)
-* **Tech Stack:** LaTeX, Analytical Mechanics, Quantum Mechanics
-* A rigorous, dynamic repository of my independent mathematical derivations, extending far beyond the standard freshman syllabus.
-* Features comprehensive step-by-step proofs and modeling based on:
-  * *Course of Theoretical Physics (Mechanics)* by L.D. Landau & E.M. Lifshitz.
-  * *Modern Quantum Mechanics* by J.J. Sakurai.
 
 ### ⚙️ [Automated CI/CD Workflow Pipeline](https://github.com/Leo-ChengXuLiu/Computational-Physics-and-AI-Architecture/tree/main/Autonomous%20Archive%20Management%20via%20Local%20LLM)
 * **Tech Stack:** Python, Git Automation
