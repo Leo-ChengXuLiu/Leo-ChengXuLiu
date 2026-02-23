@@ -8,6 +8,13 @@ Currently a first-year MSci Physics student at **University College London (UCL)
 ---
 ## 🚀 Featured Projects & Archives
 
+### ⚛️ [Advanced Theoretical Physics Manuscripts](https://github.com/Leo-ChengXuLiu/Advanced-Theoretical-Physics-Manuscripts)
+* **Focus:** Graduate-Level Derivations, Analytical Mechanics, Quantum Mechanics
+* **Overview:** The "hardcore" theoretical engine of my self-study, extending far beyond the standard Year 1 curriculum.
+* **Key Implementations:**
+  * A rigorous, dynamic repository of my independent mathematical derivations.
+  * Deep-dive theoretical notes, formula derivations, and problem-solving based on absolute foundational texts: ***J.J. Sakurai's Modern Quantum Mechanics*** and ***Landau & Lifshitz's Mechanics***.
+
 ### 💻 [Computational Physics & AI Architecture](https://github.com/Leo-ChengXuLiu/Computational-Physics-and-AI-Architecture)
 * **Tech Stack:** Python, TensorFlow, Keras, Local LLMs (Ollama), NumPy
 * **Overview:** My core engineering laboratory bridging algorithmic logic with physics data analysis. 
@@ -16,13 +23,6 @@ Currently a first-year MSci Physics student at **University College London (UCL)
   * Developed an autonomous **Local LLM (Llama3)** workflow agent for semantic physics archive management.
   * Programmed finite-difference solvers for fluid dynamics and conducted thermodynamic heat flux modeling.
   * Engineered a real-time, multimodal conversational AI assistant (**Project Amadeus**).
-
-### ⚛️ [Advanced Theoretical Physics Manuscripts](https://github.com/Leo-ChengXuLiu/Advanced-Theoretical-Physics-Manuscripts)
-* **Focus:** Graduate-Level Derivations, Analytical Mechanics, Quantum Mechanics
-* **Overview:** The "hardcore" theoretical engine of my self-study, extending far beyond the standard Year 1 curriculum.
-* **Key Implementations:**
-  * A rigorous, dynamic repository of my independent mathematical derivations.
-  * Deep-dive theoretical notes, formula derivations, and problem-solving based on absolute foundational texts: ***J.J. Sakurai's Modern Quantum Mechanics*** and ***Landau & Lifshitz's Mechanics***.
 
 ### 📚 [UCL Undergraduate Physics Foundations](https://github.com/Leo-ChengXuLiu/UCL-Physics-Year1-Notes)
 * **Focus:** Core Freshman Curriculum, Mathematical Methods, Laboratory Reports
